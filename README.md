@@ -24,8 +24,8 @@ To install just click on the .qplugx file.
     
 ## Not Working(yet)
 
-- Coordinates Commands, not working.
-- Hardware Details, not working.
+- Coordinates Commands.
+- Hardware Details.
 
 ## Know Issue
 

@@ -27,6 +27,6 @@ To install just click on the .qplugx file.
 - Coordinates Commands.
 - Hardware Details.
 
-## Know Issue
+## Known Issues
 
 - When the plugin is started the camera goes to the home position.
